@@ -24,7 +24,7 @@ An interactive **Flashcard Application built with Python and Tkinter** to help y
 
 ## 📸 Screenshot
 
-![Flashcard App Screenshot](./screenshot.png)
+![Flashcard App Screenshot](./Screenshot.png)
 
 > Example card shown: *Capital of Australia?*
 
